@@ -1,4 +1,4 @@
-# 👋 Hi, I'm da-wa33!
+# 👋 Hi, I'm da-wa!
 
 ## 🚀 About Me
 - 💻 Discord Bot & Website & Windows Software & Minecraft Plugin Developer
